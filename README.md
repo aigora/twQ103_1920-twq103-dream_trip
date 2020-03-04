@@ -4,9 +4,9 @@ basados en características del vuelo, lugar de destino, horarios, elección de 
 
 ## Integrantes del equipo
 
-Paula Castro Jiménez- PauCastro
-Sandra Hueros García- Sandraahg
-Guadalupe Peralta Valdés- guadalupeperalta
+- Paula Castro Jiménez: PauCastro
+- Sandra Hueros García: Sandraahg
+- Guadalupe Peralta Valdés: guadalupeperalta
 
 ## Objetivos del trabajo
 
