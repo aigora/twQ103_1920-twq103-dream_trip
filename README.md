@@ -1,7 +1,6 @@
 ## Dream trip
 Buscador de vuelos siguiendo unos criterios elegidos por el consumidor, 
-basados en características del avión, lugar de destino, horarios, elección de asientos y clase
- 
+basados en características del avión, lugar de destino, horarios, elección de asientos y clase de cabina 
 
 ## Integrantes del equipo
 
