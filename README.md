@@ -1,10 +1,13 @@
-# Título del trabajo
-
-Descripción breve del proyecto a realizar (2-3 frases).
+## Dream trip
+Buscador de vuelos siguiendo unos criterios elegidos por el consumidor, 
+basados en características del avión, lugar de destino, horarios, elección de asientos y clase
+ 
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Paula Castro Jiménez/ PauCastro//
+Sandra Hueros García/ Sandraahg//
+Guadalupe Peralta Valdés/ guadalupeperalta
 
 ## Objetivos del trabajo
 
