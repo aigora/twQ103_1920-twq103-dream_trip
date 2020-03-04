@@ -1,6 +1,6 @@
 ## Dream trip
 Buscador de vuelos siguiendo unos criterios elegidos por el consumidor, 
-basados en características del vuelo, destino, horarios, elección de asientos y clase de cabina 
+basados en características del vuelo, destino, horarios, elección de asientos y clase de cabina.
 
 ## Integrantes del equipo
 
@@ -10,4 +10,4 @@ basados en características del vuelo, destino, horarios, elección de asientos 
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+- Venta de billetes de avión 
