@@ -9,4 +9,4 @@ Buscador de vuelos siguiendo unos criterios elegidos por el consumidor, caracter
 
 ## Objetivos del trabajo
 
-- Venta de billetes de avión 
+- Venta de billetes de avión, teniendo en cuenta las necesidades personales del usuario. 
