@@ -9,4 +9,11 @@ Buscador de vuelos siguiendo unos criterios elegidos por el consumidor, caracter
 
 ## Objetivos del trabajo
 
-- Venta de billetes de avión, teniendo en cuenta las necesidades personales del usuario. 
+- Aplicación de venta de billetes de avión. 
+- El usuario deberá registrarse. 
+- El usuario deberá elegir un destino de Europa entre los disponibles.
+- El usuario deberá introducir las fechas de su viaje. 
+- El usuario deberá indicar sus preferencias para volar, así como el horario del vuelo, el tipo de asiento, si desea facturar o no el equipaje. 
+- El usuario deberá introducir sus datos personales (y el de su/sus acompañante/s en el caso de que haya) para comprar el billete. 
+- El usuario deberá elegir una manera de pago. 
+
