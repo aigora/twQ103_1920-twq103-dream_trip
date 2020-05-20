@@ -1,5 +1,5 @@
 ## Dream trip
-Buscador de vuelos siguiendo unos criterios elegidos por el consumidor, características del vuelo, destino, horarios, elección de asientos y clase de cabina.
+Buscador de vuelos siguiendo unos criterios elegidos por el consumidor, ya sea elección de cabina, horario preferible o destino soñado, aplicando las tarifas que más se ajustan al pasajero.
 
 ## Integrantes del equipo
 
@@ -15,5 +15,6 @@ Buscador de vuelos siguiendo unos criterios elegidos por el consumidor, caracter
 - El usuario deberá introducir las fechas de su viaje. 
 - El usuario deberá indicar sus preferencias para volar, así como el horario del vuelo, el tipo de asiento, si desea facturar o no el equipaje. 
 - El usuario deberá introducir sus datos personales (y el de su/sus acompañante/s en el caso de que haya) para comprar el billete. 
-- Se muestran diferentes tarifas y el usuario tendrá que introducir sus datos de pago.
+- Se muestran diferentes tarifas adaptadas a la edad del pasajero.
+- El usuario tendrá diferentes métodos de pago y podrá recibir su factura.
 
