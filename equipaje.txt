@@ -1,5 +1,0 @@
-Menor que 10kg:gratis
-10-15kg:20€
-15-20kg:25€
-20-30kg:30€
-Mayor que 30kg: No es posible
