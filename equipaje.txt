@@ -1,0 +1,5 @@
+Menor que 10kg: Gratis
+10-15,99kg: 20 euros
+16-19,99kg: 25 euros
+20-30kg: 30 euros
+Mayor que 30kg: No es posible
