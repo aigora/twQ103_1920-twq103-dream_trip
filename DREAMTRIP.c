@@ -10,7 +10,7 @@ struct TPersona{
  char correo[50];
 };
 
-//Inicialización de las funciones.
+//InicializaciÃ³n de las funciones.
 
 int horarioManiana();
 int horarioTarde();
@@ -59,7 +59,7 @@ struct TPersona pasajero[10];
  printf("\n                          AQUI EMPIEZA SU VIAJE\n");
  
  
- //Menú de la aplicación.
+ //MenÃº de la aplicaciÃ³n.
  
  do{ 
  printf("\n\nMENU DE OPCIONES\n");
@@ -1025,7 +1025,7 @@ int eliminarCaracteres(char str[]) {
 }
 
 char letraDNI(int dni){
-	char letra[23]={"TRWAGMYFPDXBNJZSQVHLCKE"};
+	char letra[24]={"TRWAGMYFPDXBNJZSQVHLCKE"};
 
   return letra[dni%23];
 }
